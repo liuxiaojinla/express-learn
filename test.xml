@@ -1,0 +1,13 @@
+<xml>
+	<appid>wx9fa9422a2d9048e1</appid>
+	<mch_id>1411147102</mch_id>
+	<openid>ob_0X0Q-9oBHzyNe4oxj69ssPT7U</openid>
+	<trade_out_no>1525682991448</trade_out_no>
+	<total_fee>1</total_fee>
+	<body>测试</body>
+	<notify_url>https://x1.51daoteng.com</notify_url>
+	<spbill_create_ip>127.0.0.1</spbill_create_ip>
+	<nonce_str>el3JspMM6NQKKCilkOKZw9M5YK9vAMv2</nonce_str>
+	<trade_type>JSAPI</trade_type>
+	<sign>BDAE889355AB1D87CCE4D4C05C1CC034</sign>
+</xml>
